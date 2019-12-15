@@ -107,3 +107,7 @@ irb(main):029:0> str.count("/")
 
 * Add support for IPv6 host names.
 * Can you think of others?
+
+<br>
+
+[contributor code of conduct](docs/CODE_OF_CONDUCT.md)
